@@ -21,4 +21,4 @@ An FSM-based 4-way traffic light controller implemented in Verilog HDL. This har
 ## Documentation
 
 You can view or download the complete project requirements and guidelines here:
-- [📄 Download Project PDF](Mini Project-1.pdf)
+- [📄 Download Project PDF](Mini_Project1.pdf)
